@@ -17,3 +17,15 @@ Requerimientos Funcionales
 -  consulta [REGISTRO Y CONSULTA], 
 -  usuario [REGISTRO].
 -  
+
+Como esta la estructura del PROYECTO
+#TEN EN CUENTA LO SIGUIENTE PARA QUE TE FUNCIONE CORRECTAMENTE
+
+UNIDAD C:
++CARPETA Spring Boot
+++CARPETA FullStack
++++CARPETA BACKEND
+++++PROYECTO mediaapp-backend
+
+PUEDE UNIRTE AL FORO DE FULL STACK DE NUESTRA COMUNIDAD DE TELEGRAM
+https://t.me/SpringBootFtJAVA
